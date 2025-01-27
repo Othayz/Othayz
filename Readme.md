@@ -16,3 +16,6 @@
 
 
 </div>
+<img src="https://raw.githubusercontent.com/Othayz/Othayz/output/snake.svg" alt="Snake animation" />
+
+###
