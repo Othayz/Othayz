@@ -1,7 +1,7 @@
 ## 👋 Olá! Eu sou o Thay
 
 Migrando de área e estudando programação para construir uma nova carreira na tecnologia.  
-Atualmente aprendendo **Python**, lógica de programação e criando meus primeiros projetos.  
+Atualmente aprendendo, e criando meus primeiros projetos.  
 
 ---
 
@@ -33,8 +33,13 @@ Atualmente aprendendo **Python**, lógica de programação e criando meus primei
 
 ---
 
-### 📈 Estatísticas do GitHub  
-<img src="https://github-readme-stats.vercel.app/api?username=Othayz&theme=transparent&show_icons=true&count_private=true" />
+### 📈 Estatísticas do GitHub (fallback)
+<p align="left">
+  <img alt="Followers" src="https://img.shields.io/github/followers/Othayz?style=for-the-badge&logo=github">
+  <img alt="Repos" src="https://img.shields.io/github/repos/Othayz?style=for-the-badge&logo=github">
+  <img alt="Stars" src="https://img.shields.io/github/stars/Othayz?style=for-the-badge&logo=github">
+</p>
+
 
 ---
 
