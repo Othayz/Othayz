@@ -1,18 +1,14 @@
-<h2 align="left">Hi 👋! My name is thairone and I'm a technology student, from Brazil!</h2>
-
-###
-
 <div align="center">
   <img 
-    src="https://github-readme-stats-iota-three.vercel.app/api?username=Othayz&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&cache_seconds=7200" 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Othayz&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" 
     height="150" 
-    alt="stats graph"  
+    alt="stats graph"
   />
-  
+
   <img 
-    src="https://github-readme-stats-iota-three.vercel.app/api/top-langs/?username=Othayz&layout=compact&langs_count=5&theme=dracula&cache_seconds=7200" 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Othayz&layout=compact&langs_count=5&theme=dracula" 
     height="150" 
-    alt="languages graph"  
+    alt="languages graph"
   />
 </div>
 
