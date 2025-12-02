@@ -1,57 +1,44 @@
-<div align="center">
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Othayz&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" 
-    height="150" 
-    alt="stats graph"
-  />
+## 👋 Olá! Eu sou o Thay
 
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Othayz&layout=compact&langs_count=5&theme=dracula" 
-    height="150" 
-    alt="languages graph"
-  />
-</div>
+Migrando de área e estudando programação para construir uma nova carreira na tecnologia.  
+Atualmente aprendendo **Python**, lógica de programação e criando meus primeiros projetos.  
 
-###
+---
 
-<img align="right" height="150" src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" />
+### 🚀 Tecnologias que estou aprendendo  
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode,html,css,js" />
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-</div>
+### 📬 Como falar comigo
+<div style="display: flex; gap: 10px;">
 
-###
-
-<div align="left">
   <a href="https://www.instagram.com/0thayo/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+    <img height="35" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 
-  <a href="https://discord.gg/hxfsGXHv" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+  <a href="mailto:thairone.dev@gmail.com" target="_blank">
+    <img height="35" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 
-  <a href="mailto:thaironeveloso@icloud.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="email logo" />
+  <a href="https://github.com/Othayz" target="_blank">
+    <img height="35" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
   </a>
 
   <a href="https://www.linkedin.com/in/thairone-veloso-silva/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+    <img height="35" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+
 </div>
 
-###
+---
 
-<img src="https://raw.githubusercontent.com/Othayz/Othayz/output/snake.svg" alt="Snake animation" />
+### 📈 Estatísticas do GitHub  
+<img src="https://github-readme-stats.vercel.app/api?username=Othayz&theme=transparent&show_icons=true&count_private=true" />
+
+---
+
+### 🐍 Animação Snake (histórico de commits)
+<img src="https://raw.githubusercontent.com/Othayz/Othayz/output/snake.svg" />
+
+---
