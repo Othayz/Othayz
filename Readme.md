@@ -6,7 +6,7 @@ Atualmente aprendendo, e criando meus primeiros projetos.
 ---
 
 ### 🚀 Tecnologias que estou aprendendo  
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode,html,css,js,Golang,sql" />
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode,html,css,js,Go,sqlite" />
 
 ---
 
