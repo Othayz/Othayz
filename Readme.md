@@ -31,10 +31,9 @@
 <br/>
 
 ## 🚀 Projetos em Destaque
-*(Substitua pelos seus projetos)*
 
-- **[Nome do Projeto 1](#)** - Breve descrição de 1 linha sobre o que esse projeto faz e o problema que ele resolve. Feito com Python e Django.
-- **[Nome do Projeto 2](#)** - Breve descrição. Desenvolvido com HTML, JS e Angular.
+
+- **[Pokemon-catalogo](https://github.com/Othayz/Pokemon-catalogo)** - Projeto para estudo de uma site catalogar pokemons com suas informações basicas. Utilizando HTML, CSS, Javascript e Django.
 
 <br/>
 
