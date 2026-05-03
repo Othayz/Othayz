@@ -46,7 +46,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Othayz&theme=shadow_green&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Othayz&theme=shadow_green&hide_border=false" />
 </div>
 
 <br/>
