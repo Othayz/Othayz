@@ -4,7 +4,7 @@
 
   # Olá! Eu sou o Thay 👋
   
-  ### *Migrando de área e estudando programação para construir uma nova carreira na tecnologia.*
+  ### *Migrando de área para a tecnologia e aprendendo na prática: apps desktop, extensões de navegador e sites.*
   
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/0thayo/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thairone-veloso-silva/)
@@ -14,8 +14,9 @@
 <br/>
 
 ## 🎯 Sobre mim
-- 🔭 Atualmente trabalhando em **Meus primeiros projetos práticos**.
-- 🌱 Aprendendo e me aprofundando em **Desenvolvimento Web, Backend e Cloud**.
+- 🔭 Atualmente trabalhando no **[Ouve Aí](https://github.com/Othayz/Text-Voz)**, uma extensão de navegador que lê textos em voz alta.
+- 🖥️ Recentemente construí a **[Central NVR WiFi](https://github.com/Othayz/central-nvr-wifi)**, um app desktop para Linux que encontra câmeras (ONVIF) e exibe o vídeo (RTSP).
+- 🌱 Aprendendo e me aprofundando em **Desenvolvimento Web, Backend, Aplicações Desktop e Extensões de Navegador**.
 - 👯 Buscando colaborar em **projetos de código aberto e grupos de estudo**.
 - 💬 Pergunte-me sobre **minha transição de carreira ou tecnologias que estou aprendendo!**
 
@@ -24,16 +25,20 @@
 ## 💻 Tech Stack
 > *Tecnologias com as quais venho trabalhando e estudando:*
 
-| **Backend & Cloud** | **Frontend** | **Banco de Dados** |
-| :---: | :---: | :---: |
-| ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) <br> ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) <br> ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) <br> ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) <br> ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) <br> ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) <br> ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) | ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) <br> ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) |
+| **Backend & Cloud** | **Frontend** | **Banco de Dados** | **Plataformas** |
+| :---: | :---: | :---: | :---: |
+| ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) <br> ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) <br> ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) <br> ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) <br> ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) <br> ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) <br> ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) <br> ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) <br> ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) | ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) <br> ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) <br> ![Extensões de Navegador](https://img.shields.io/badge/Extens%C3%B5es_de_Navegador-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white) |
 
 <br/>
 
 ## 🚀 Projetos em Destaque
 
-
-- **[Pokemon-catalogo](https://github.com/Othayz/Pokemon-catalogo)** - Projeto para estudo de uma site catalogar pokemons com suas informações basicas. Utilizando HTML, CSS, Javascript e Django.
+| Projeto | Descrição | Tecnologias |
+| :--- | :--- | :--- |
+| 🔊 **[Ouve Aí](https://github.com/Othayz/Text-Voz)** | Extensão de navegador que converte texto em voz. Tem também um [site de apresentação](https://github.com/Othayz/Web-Pagina-Ouve-Ai). | JavaScript, TypeScript |
+| 📹 **[Central NVR WiFi](https://github.com/Othayz/central-nvr-wifi)** | App desktop para Linux que gerencia câmeras, descobre dispositivos via ONVIF e transmite vídeo via RTSP. Tem também um [site de apresentação](https://github.com/Othayz/Web-Central-NVR). | Python, Linux |
+| 🗳️ **[Eleições 2026](https://github.com/Othayz/Eleicoes_2026)** | Site para acompanhar as eleições de 2026. | Python |
+| 🐾 **[Pokemon-catalogo](https://github.com/Othayz/Pokemon-catalogo)** | Um dos meus primeiros projetos: site que cataloga pokémons com suas informações básicas. | HTML, CSS, JavaScript, Django |
 
 <br/>
 
